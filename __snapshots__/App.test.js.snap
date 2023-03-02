@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    [
+      {
+        "flexBasis": "0%",
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+      {
+        "alignItems": "center",
+      },
+      {
+        "justifyContent": "center",
+      },
+      {
+        "backgroundColor": "#fef9c3",
+      },
+    ]
+  }
+>
+  <Text>
+    Welcome to Chytarium!
+  </Text>
+</View>
+`;
